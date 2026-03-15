@@ -47,5 +47,11 @@ src = "https://github.com/Bharati-M/house-price-prediction-eda-linear-regression
 
 <img
 src = "https://github.com/Bharati-M/house-price-prediction-eda-linear-regression/blob/main/Project%20Screenshots/Price%20Distribution%20Graph.png"/>
+## Steps to run the Project
+- Download or clone the repository from GitHub.
+- Open the project in Jupyter Notebook or Google Colab.
+- Install required libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn.
+- Run the notebook cells step by step.
+- The project will load the dataset, perform EDA, train the Linear Regression model, and show the results and graphs.
 ## Conclusion
 This project performed Exploratory Data Analysis on the King County house dataset and built a Linear Regression model to predict house prices. The model was evaluated using R², MAE, and MSE, demonstrating how data analysis and machine learning can be used for price prediction.
