@@ -1,5 +1,5 @@
 # Data Science February Month Project
-This repository contains my February internship projects completed at Take It Smart.
+This repository contains my February internship project completed at Take It Smart.
 ## About Project
 It is a EDA and Linear Regression project for predicting house prices using the King County housing dataset. The project includes data preprocessing, visualization, feature analysis, model training, and evaluation using Python, Pandas, Seaborn, and Scikit-learn.
 ## Project objectives
