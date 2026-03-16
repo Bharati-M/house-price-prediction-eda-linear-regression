@@ -1,4 +1,4 @@
-# house-price-prediction-eda-linear-regression
+# Data Science February Month Project
 EDA and Linear Regression project for predicting house prices using the King County housing dataset. The project includes data preprocessing, visualization, feature analysis, model training, and evaluation using Python, Pandas, Seaborn, and Scikit-learn.
 ## Project objectives
 - To perform Exploratory Data Analysis (EDA) on the King County house price dataset to understand patterns, relationships, and important features affecting house prices.
