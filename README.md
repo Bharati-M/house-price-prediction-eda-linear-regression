@@ -49,7 +49,7 @@ src = "https://github.com/Bharati-M/house-price-prediction-eda-linear-regression
 
 <img
 src = "https://github.com/Bharati-M/house-price-prediction-eda-linear-regression/blob/main/Project%20Screenshots/Price%20Distribution%20Graph.png"/>
-## Steps to run the Project
+## Steps to Run the Project
 - Download or clone the repository from GitHub.
 - Open the project in Jupyter Notebook or Google Colab.
 - Install required libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn.
