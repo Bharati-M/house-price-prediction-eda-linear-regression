@@ -7,7 +7,7 @@ EDA and Linear Regression project for predicting house prices using the King Cou
 - <a
   href = "https://www.kaggle.com/datasets/harlfoxem/housesalesprediction">Dataset</a>
   
-## process
+## Process
 - Dataset Collection: The King County House Sales dataset was used for this project, which contains information about house features such as price, bedrooms, bathrooms, living area, and other attributes.
 - Data Loading: The dataset was loaded into Python using the Pandas library for further analysis.
 - Data Understanding: The structure of the dataset was analyzed by checking the number of rows, columns, data types, and statistical summary.
